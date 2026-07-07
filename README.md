@@ -1,4 +1,4 @@
-# 🚀 Project Name (smothpol)
+# 🚀 Project Name (orbitalsmoth)
 
 [![Platform: Fabric](https://img.shields.io/badge/Platform-Fabric-lightgrey)](https://fabricmc.net/)
 [![Minecraft Version: 1.21.x](https://img.shields.io/badge/Minecraft-1.21.x-brightgreen)]()
