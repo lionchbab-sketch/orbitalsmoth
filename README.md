@@ -1,7 +1,7 @@
 # 🚀 Project Name (orbitalsmooth)
 
 [![Platform: Fabric](https://img.shields.io/badge/Platform-Fabric-lightgrey)](https://fabricmc.net/)
-[![Minecraft Version: 1.21.x](https://img.shields.io/badge/Minecraft-1.21.x-brightgreen)]()
+[![Minecraft Version: 1.21.11](https://img.shields.io/badge/Minecraft-1.21.x-brightgreen)]()
 
 An advanced optimization mod for **Fabric 1.21.11** engineered to seamlessly support massive, game-changing plugins while featuring some of the absolute best rendering fixes available for Minecraft.
 
